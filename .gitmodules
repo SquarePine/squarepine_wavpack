@@ -1,0 +1,3 @@
+[submodule "submodules/WavPack"]
+	path = submodules/WavPack
+	url = git@github.com:SquarePine/WavPack.git
